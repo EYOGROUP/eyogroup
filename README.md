@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Native Apps**
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝 I’m looking for help with **Frontend**
 
 - 👨‍💻 All of my projects are available at [Soon...](Soon...)
 
